@@ -1,0 +1,6 @@
+c:\users\ushym\documents\visual studio 2013\Projects\AlgorithmsPrometheus\AlgorithmsPrometheus\bin\Debug\AlgorithmsPrometheus.exe.config
+c:\users\ushym\documents\visual studio 2013\Projects\AlgorithmsPrometheus\AlgorithmsPrometheus\bin\Debug\AlgorithmsPrometheus.exe
+c:\users\ushym\documents\visual studio 2013\Projects\AlgorithmsPrometheus\AlgorithmsPrometheus\bin\Debug\AlgorithmsPrometheus.pdb
+c:\users\ushym\documents\visual studio 2013\Projects\AlgorithmsPrometheus\AlgorithmsPrometheus\obj\Debug\AlgorithmsPrometheus.csprojResolveAssemblyReference.cache
+c:\users\ushym\documents\visual studio 2013\Projects\AlgorithmsPrometheus\AlgorithmsPrometheus\obj\Debug\AlgorithmsPrometheus.exe
+c:\users\ushym\documents\visual studio 2013\Projects\AlgorithmsPrometheus\AlgorithmsPrometheus\obj\Debug\AlgorithmsPrometheus.pdb
