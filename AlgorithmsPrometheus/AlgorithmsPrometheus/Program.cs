@@ -12,6 +12,10 @@ namespace AlgorithmsPrometheus
             BigInteger secondMultiplier = BigInteger.Parse("7114192848577754587969744626558571536728983167954552999895348492");
             BigInteger product = _1_MethodKaratsuby.CalculateProduct(firstMultiplier, secondMultiplier);
             Helper.WriteResultsToFile(product);
+
+            Console.WriteLine("Binary search algorithm.\n");
+            int[] array = { 1, 2, 3, 5, 6, 7, 8, 9 };
+            Console.WriteLine(String.Concat("Index of key is : " + BinarySearch.SearchArrayKey(array, 9).ToString()));
         }
     }
 }
