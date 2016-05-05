@@ -43,6 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1_MethodKaratsuby.cs" />
+    <Compile Include="2_MergeSort.cs" />
+    <Compile Include="Coursera\UnionFind\QuickFindAlgorithm.cs" />
+    <Compile Include="Coursera\UnionFind\QuickUnionAlgorithm.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
