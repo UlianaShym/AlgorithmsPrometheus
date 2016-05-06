@@ -1,0 +1,6 @@
+C:\Repo\AlgorithmsPrometheus\Puzzles\bin\Debug\Puzzles.exe.config
+C:\Repo\AlgorithmsPrometheus\Puzzles\bin\Debug\Puzzles.exe
+C:\Repo\AlgorithmsPrometheus\Puzzles\bin\Debug\Puzzles.pdb
+C:\Repo\AlgorithmsPrometheus\Puzzles\obj\Debug\Puzzles.csprojResolveAssemblyReference.cache
+C:\Repo\AlgorithmsPrometheus\Puzzles\obj\Debug\Puzzles.exe
+C:\Repo\AlgorithmsPrometheus\Puzzles\obj\Debug\Puzzles.pdb
